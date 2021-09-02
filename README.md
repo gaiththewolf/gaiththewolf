@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=gaiththewolf)
 
 
-**Languages and Tools:**  
+**:boom::boom: Languages and Tools: :boom::boom:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -22,17 +22,17 @@
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github,
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github :grin:
 
 <div align="center">
   <a href="https://github.com/gaiththewolf">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gaiththewolf&layout=compact&theme=github_dark" />
   </a>
-  </br></br>
+  </br>:star_struck::star_struck:</br>
   <a href="https://github.com/gaiththewolf">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gaiththewolf&repo=Exploitdb&theme=github_dark" />
   </a>
-  </br></br>
+  </br>:star_struck::star_struck:</br>
   <a href="https://github.com/gaiththewolf">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gaiththewolf&show_icons=true&include_all_commits=true&theme=github_dark" alt="WOLF"/>
   </a>
